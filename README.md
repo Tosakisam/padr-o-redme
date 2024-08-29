@@ -30,5 +30,5 @@ documentação referente a projetos no github.
    | <a href="#tecnologia">Tecnologia</a>
    
 
-   ##  Status do Projeto
+   ## :rocket: Status do Projeto
    <h4>Em construção</h4>
